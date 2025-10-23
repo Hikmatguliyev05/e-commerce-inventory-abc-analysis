@@ -8,8 +8,7 @@ Show how inventory analysis can reveal which products generate the most value â€
 helping prioritize stock, marketing, and pricing decisions.
 
 ## Dashboard Preview
-![ABC Dashboard](dashboard_preview.png)
-
+![E-commerce ABC Analysis](Ecommerce%20Abc%20analysis.png)
 ## Key Insights
 - Around **8% of products** generate **80% of total sales**.  
 - **B-class items** contribute around 15% of total sales.  
